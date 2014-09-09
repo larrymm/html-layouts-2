@@ -1,0 +1,82 @@
+/** {
+	border: 1px solid red;
+}*/
+
+.box {
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+
+}
+
+.black {
+	background: black;
+}
+
+.red {
+	background: red;
+}
+
+.blue {
+	background:blue;
+}
+
+.middle-text {
+	height: 200px;
+	width: 300px;
+	font-size: 12px;
+	padding: 10px;
+	
+
+}
+
+.container {
+	height: 100px;
+	margin-bottom: 50px;
+}
+.boxm { 
+	height: 100px;
+	width: 210px;
+	float: left;
+	display: inline-block;
+}
+
+.boxm2 {
+	height:100px;
+	width: 90px;
+	float: left;
+	display: inline-block;
+}
+
+
+
+.middle-space {
+	background: green;
+	height: 50px;
+	float: left;
+	clear: both;
+}
+
+.bottom1 {
+	height: 50px;
+	width: 175px;
+	float: left;
+}
+
+.bottom2 {
+	height: 50px;
+	width: 45px;
+	float: left;
+}
+
+.bottom3 {
+	height: 50px;
+	width: 35px;
+	float: left;
+}
+
+.bottom-blue2 {
+
+}
+
+
